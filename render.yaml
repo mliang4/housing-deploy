@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: housing-price-api
+    runtime: docker
+    plan: free
+    branch: main
+    healthCheckPath: /docs
