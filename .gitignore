@@ -152,3 +152,4 @@ cython_debug/
 # Project specific
 data/
 models/
+tests/test_url.py
