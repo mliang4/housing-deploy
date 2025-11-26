@@ -1,5 +1,7 @@
 # House Price Prediction API
 
+[![CI Pipeline](https://github.com/mliang4/housing-deploy/actions/workflows/ci.yml/badge.svg)](https://github.com/mliang4/housing-deploy/actions/workflows/ci.yml)
+
 This project is a machine learning-powered REST API that predicts house prices based on the California Housing dataset. It is built with **FastAPI** and **Scikit-learn**, and is containerized with **Docker** for easy deployment on platforms like **Render**.
 
 ## 🚀 Features
